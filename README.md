@@ -6,6 +6,14 @@
 Here are some ideas to get you started: -->
   Who am i?
   
+  I'm Dec, a 20 something year old working on my coding career. I have a computer science degree
+
+  My technical focus is around data and language expertise, giving me a broad use of code and using it to its full potential.
+
+  Due to my background being extremely hands on, it allows me to have skills other developers wish they had (such as my glossy beard😉).
+
+
+  
 🔭 What am i working on?
   
   Currently I'm working on my portfolio and expanding my understanding of other programming languages, fun i know. 
